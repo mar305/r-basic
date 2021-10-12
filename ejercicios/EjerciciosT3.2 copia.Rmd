@@ -1,7 +1,7 @@
 ---
 título: "Ejercicios sobre LaTeX, R y Markdown"
 author: "Juan Gabriel Gomila & María Santos"
-date: "30/12/2018"
+fecha: "30/12/2018"
 output: pdf_document
 ---
 
